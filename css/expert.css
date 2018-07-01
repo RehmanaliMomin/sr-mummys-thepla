@@ -17,10 +17,16 @@ header{
 .logo{
     font-family: "IM FELL English SC";
     font-size: 35px;
-   
     margin: 0 0 0 2vw;
     color: #100000;
     float: left;
+}
+
+.logo a{
+    text-decoration: none;
+    color: #100000;
+    font-family: "IM FELL English SC";
+    font-size: 35px;
 }
 
 .prim_nav{
@@ -61,7 +67,6 @@ nav ul{
     letter-spacing: 2px;
     font-size: 15px;
 }
-
 
 
 #hero {
@@ -178,7 +183,6 @@ footer{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-column-gap: 16px;
-    margin-bottom: 30px;
 }
 
 .contact-card1{
@@ -204,4 +208,8 @@ footer{
 
 .intline {
     margin: 0 auto;
+}
+
+#contact-cards .contact-card1 h2,#contact-cards .contact-card1 ul li{
+    font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
