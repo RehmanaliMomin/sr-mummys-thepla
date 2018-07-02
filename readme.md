@@ -1,4 +1,4 @@
-Mummy's Thepla :<br>
+<b>Mummy's Thepla :</b><br>
 
 Getting Started :<br>
 git clone https://github.com/RehmanaliMomin/sr-mummys-thepla.git
