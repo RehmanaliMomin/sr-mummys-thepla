@@ -68,7 +68,6 @@ nav ul{
     font-size: 15px;
 }
 
-
 #hero {
     margin-top: 70px;
     width: 100%;
@@ -96,12 +95,9 @@ nav ul{
     text-align: center;
     position: absolute;
     font-family: 'Montserrat', sans-serif;
-
 }
 
-
 .expert{
-
     width: 70%;
     margin: 100px auto 0 auto;
 }
@@ -168,16 +164,11 @@ h3{
     text-align: justify;
 }
 
-.exp_tst p{
-
-}
-
 footer{
     background-color: black;
     width: 100%;
     margin-top: 50px;
 }
-
 
 #contact-cards{
     display: grid;
@@ -193,7 +184,6 @@ footer{
 .contact-card1 ul li{
     margin-left: -20px;
 }
-
 
 .line {
     width: 70px;

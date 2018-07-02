@@ -18,13 +18,13 @@ header{
   font-family: "IM FELL English SC";
   font-size: 35px;
   margin: 0 0 0 2vw;
-  color: #100000;
+  color: #100;
   float: left;
 }
 
 .logo a{
   text-decoration: none;
-  color: #100000;
+  color: #100;
   font-family: "IM FELL English SC";
   font-size: 35px;
 }
@@ -46,7 +46,7 @@ nav ul{
 }
 
 .nav_item a{
-  color: #a0a0a0;
+  color: #a0a0;
   text-decoration: none;
   font-size: 15px;
   font-family: "Raleway";
