@@ -287,7 +287,15 @@ nav ul{
   
 }
 
+.fas{
+  font-size: 32px;
+  color: #ee2c38;
+}
 
+.fa-map-marker-alt, .fa-store, .fa-dolly-flatbed{
+  font-size: 32px;
+  color:red;
+}
 
 /* .delivery-cards h2{
   align-content: center;
@@ -297,6 +305,8 @@ nav ul{
 
 footer{
   background-color: black;
+  width: 100%;
+  margin-top: 50px;
 }
 
 #contact-cards{
@@ -338,6 +348,6 @@ footer{
 
 /* ========================= */
 
-footer{
+/* footer{
   bottom: 0;
-}
+} */
